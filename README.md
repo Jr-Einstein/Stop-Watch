@@ -12,23 +12,23 @@ A simple stopwatch implemented using HTML, CSS, and JavaScript. The stopwatch di
 
 ## Features
 
-- Real-time updating timer
-- Attractive and responsive design
-- Easy to integrate into any web project
+- Real-time updating timer.
+- Attractive and responsive design.
+- Easy to integrate into any web project.
 
 ## Usage
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/stopwatch.git
+git clone https://github.com/jr-einstein/stop-watch.git
 ```
 
-2. Open `stopwatch.html` in your preferred web browser.
+2. Open `index.html` in your preferred web browser.
 
 ## Customization
 
-You can customize the appearance of the stopwatch by modifying the CSS code in the `stopwatch.html` file. The `timer-box` class controls the styling of the box that contains the timer.
+You can customize the appearance of the stopwatch by modifying the CSS code in the `index.html` file. The `timer-box` class controls the styling of the box that contains the timer.
 
 ```css
 .timer-box {
