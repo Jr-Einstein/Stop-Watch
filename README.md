@@ -5,9 +5,10 @@ A simple stopwatch implemented using HTML, CSS, and JavaScript. The stopwatch di
 
 ## Demo
 
-[View Demo](https://your-demo-link)
+[View Demo](https://jr-einstein.github.io/Stop-Watch/)
 
-![Stopwatch Demo](demo.gif)
+![Stopwatch Demo](![image](https://github.com/Jr-Einstein/Stop-Watch/assets/79279299/a5d51a45-e68b-451b-be38-6b05b5efdadf)
+)
 
 ## Features
 
