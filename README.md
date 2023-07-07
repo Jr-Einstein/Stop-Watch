@@ -7,8 +7,8 @@ A simple stopwatch implemented using HTML, CSS, and JavaScript. The stopwatch di
 
 [View Demo](https://jr-einstein.github.io/Stop-Watch/)
 
-![Stopwatch Demo](![image](https://github.com/Jr-Einstein/Stop-Watch/assets/79279299/a5d51a45-e68b-451b-be38-6b05b5efdadf)
-)
+![image](https://github.com/Jr-Einstein/Stop-Watch/assets/79279299/64d6a0cd-46e8-43d1-a0e2-93390d0b9fc0)
+
 
 ## Features
 
