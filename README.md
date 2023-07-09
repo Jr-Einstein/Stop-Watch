@@ -13,7 +13,6 @@ A simple stopwatch implemented using HTML, CSS, and JavaScript. The stopwatch di
 ## Features
 
 - Real-time updating timer.
-- Attractive and responsive design.
 - Easy to integrate into any web project.
 
 ## Usage
